@@ -132,12 +132,14 @@ projects:
       Projects are mostly based on Machine learning
 
     assignments:
-      - title: 
-        link: "#hook"
+      - title: Data Augmentation using Deep Convolutional Generative Adversarial Network.
+        link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
+                 -  Data augmentation using GAN's .
+                 -  Two network were used Generator and Discriminator. 
+                 -  Min-max function was used as a loss function.
+      - title: Text translation using RNN and attention mechanism
+        link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
