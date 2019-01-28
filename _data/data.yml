@@ -124,7 +124,7 @@ projects:
                     Got accuracy of 70 % "
 
 
-      - title: Prediction using Random Forestetwork
+      - title: Prediction using Random Forest.
         link: "https://github.com/vjayd/Signature-verification-using-Siamese-CNN"
         tagline: "   Feature engineering and feature scaling.
                      Data cleaning and wrangling of given unstructured data.
