@@ -128,7 +128,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: > Projects are mostly based on Machine learning
+    intro: > 
+      Projects are mostly based on Machine learning
 
     assignments:
       - title: 
