@@ -114,80 +114,61 @@ projects:
     assignments:
       - title: Data Augmentation using Deep Convolutional Generative Adversarial Network.
         link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#                  -  Data augmentation using GAN's .
-#                  -  Two network were used Generator and Discriminator. 
-#                  -  Min-max function was used as a loss function.
-        details: sdfasdfadsfasdfasdf
-      - title: Text translation using RNN and attention mechanism
+        tagline: "
+                  -  Data augmentation using GAN's .
+                  -  Two network were used Generator and Discriminator. 
+                  -  Min-max function was used as a loss function."
+        
+        
+      - title: Text translation using RNN and attention mechanism.
         link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "
+                  - Language translation using autoencoder architecture.
+                  - Used LSTM , RNN, GRU , Attention mechanism and teacher forcing.
+                  - Dataset used was fra - eng translation."
 
-      - title: Image Alignment using Convolutional Autoencoder
+
+      - title: Image Alignment using Convolutional Autoencoder.
         link: "https://github.com/vjayd/Image-Alignment-using-CNN"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "
+                  - Aligning the distorted image to that of original image.
+                  - Used Autoencoder, spatial transformer module, stochastic gradient descent.
+                  - Used MNIST data set and got accuracy upto 0.98 NCC score between aligned and original image after transformation.
 
-      - title: Atom
-        link: "#"
-        tagline: "- Aligning the distorted image to that of original image.
-       - Used Autoencoder, spatial transformer module, stochastic gradient descent.
-       - Used MNIST data set and got accuracy upto 0.98 NCC score between aligned and original image after transformation.
-        A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Offline signature verification using Siamese convolutional Network
         link: "https://github.com/vjayd/Signature-verification-using-Siamese-CNN"
-        tagline: "Used Siamese convolutional networks to verify the given two signatures .
-      - Twin networks followed by distance measure as loss function.
-      - Got accuracy of 70 % e theme designed to help app developers promote their mobile apps"
+        tagline: "
+                   - Twin networks followed by distance measure as loss function.
+                   - Got accuracy of 70 % "
+
 
       - title: Prediction using Random Forestetwork
         link: "https://github.com/vjayd/Signature-verification-using-Siamese-CNN"
-        tagline: "Used Siamese convolutional networks to verify the given two signatures .
-      - Twin networks followed by distance measure as loss function.
-      - Got accuracy of 70 % e theme designed to help app developers promote their mobile apps"
+        tagline: "
+                   - Data cleaning and wrangling of given unstructured data.
+                   - Applied random forest algorithm for the prediction ."
 
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Pytorch, sklearn
         level: 98%
 
-      - name: Angular
+      - name: Spyder, Jupyter
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Android Studio
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
