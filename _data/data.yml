@@ -19,7 +19,7 @@ sidebar:
     github: vjayd
     gitlab:
     bitbucket:
-    twitter: #'@webjeda'
+    twitter: vjay_deshpande
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -50,14 +50,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a master's student at IIIT Vadodara. My broad areas of research is Machine learning and data science. In free time i love to reading novels
+      I'm master's student at IIIT Vadodara. My broad areas of research is Machine learning and data science. In free time i love to reading novels
       and watching cricket
 
       #Second paragraph if required.
 
 education:
     - degree: M.Tech in Computer Science
-      university: IIIT Vadodara
+      university: IIIT Vadodara, India
       time: 2017 -2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -70,17 +70,16 @@ education:
           - Bullet point
 
     - degree: B.Engg in Computer science
-      university: Amravati University
+      university: Amravati University, Maharashtra
       time: 2010 -2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        #Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          
 
 experiences:
     - role: Software Engineer
@@ -97,39 +96,20 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - Was responsible for end to end delivery of android apps.
+          - Worked on Android sdk, Android NDK, JNI, JSON, Webview.
+          - Design Patterns Used : MVC, Singleton, Adapter .
+          - Good experience with Ad sdk’s and Materail Design.
+          
+          
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    
+    
 
 projects:
     title: Projects
     intro: > 
-      Projects are mostly based on Machine learning
+      
 
     assignments:
       - title: Data Augmentation using Deep Convolutional Generative Adversarial Network.
@@ -138,6 +118,7 @@ projects:
 #                  -  Data augmentation using GAN's .
 #                  -  Two network were used Generator and Discriminator. 
 #                  -  Min-max function was used as a loss function.
+        details: sdfasdfadsfasdfasdf
       - title: Text translation using RNN and attention mechanism
         link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
         tagline: "A responsive website template designed to help web developers/designers market their services."
