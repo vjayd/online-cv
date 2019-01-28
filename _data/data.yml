@@ -106,7 +106,7 @@ projects:
     assignments:
       - title: Data Augmentation using Deep Convolutional Generative Adversarial Network.
         link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
-        tagline: " /n
+        tagline: " \n
                   -  Data augmentation using GAN's .
                   -  Two network were used Generator and Discriminator. 
                   -  Min-max function was used as a loss function."
