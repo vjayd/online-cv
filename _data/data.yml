@@ -51,22 +51,24 @@ career-profile:
     title: Career Profile
     summary: |
       I'm master's student at [Indian Institute of Information Technology Vadodara]. My broad areas of research is Machine learning, Computer vision and Data analytics. 
-      I love reading novels and watching cricket in free time. You can download by CV [here]()
+      I love reading novels and watching cricket in free time.
 
       
 
 education:
     - degree: M.Tech in Computer Science
       university: IIIT Vadodara, India
-      time: 2017 -2019
+      time: 2017 - 2019
       details: |
           - Teaching Assistant for various courses.
-          - Working on Inverse problems in imaging using deep learning
+          - Working on Inverse problems in imaging using deep learning.
 
     - degree: B.Engg in Computer science
       university: Amravati University, Maharashtra
-      time: 2010 -2014
+      time: 2010 - 2014
       details: |
+          - Interned at Persistent systems, Nagpur.
+          - Completed B.Engg with 7.98 CPI
         
 
           
