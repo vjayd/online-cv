@@ -50,8 +50,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm master's student at [Indian Institute of Information Technology Vadodara]("http://www.iiitvadodara.ac.in/"). My broad areas of research is Machine learning, Computer vision and Data analytics. 
-      I love reading novels and watching cricket in free time.
+      I'm master's student at [Indian Institute of Information Technology Vadodara]. My broad areas of research is Machine learning, Computer vision and Data analytics. 
+      I love reading novels and watching cricket in free time. You can download by CV [here]()
 
       
 
@@ -60,12 +60,6 @@ education:
       university: IIIT Vadodara, India
       time: 2017 -2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
           - Teaching Assistant for various courses.
           - Working on Inverse problems in imaging using deep learning
 
@@ -73,11 +67,7 @@ education:
       university: Amravati University, Maharashtra
       time: 2010 -2014
       details: |
-        #Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #pretium quis, sem.
+        
 
           
 
@@ -106,40 +96,37 @@ projects:
     assignments:
       - title: Data Augmentation using Deep Convolutional Generative Adversarial Network.
         link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
-        tagline: " \n
-                  -  Data augmentation using GAN's .
-                  -  Two network were used Generator and Discriminator. 
-                  -  Min-max function was used as a loss function."
+        tagline: " Did data augmentation using GAN'S. Two network were used Generator and Discriminator with 
+                   Min-max function as loss function. Dataset used was celebrity dataset and with different hyperparameter 
+                   different results were obtained."
         
         
       - title: Text translation using RNN and attention mechanism.
         link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
-        tagline: "
-                  - Language translation using autoencoder architecture.
-                  - Used LSTM , RNN, GRU , Attention mechanism and teacher forcing.
-                  - Dataset used was fra - eng translation."
+        tagline: " Language translation using autoencoder architecture. Used LSTM , RNN, GRU , Attention mechanism and teacher forcing.
+                   Dataset used was fra - eng translation . "
 
 
       - title: Image Alignment using Convolutional Autoencoder.
         link: "https://github.com/vjayd/Image-Alignment-using-CNN"
         tagline: "
-                  - Aligning the distorted image to that of original image.
-                  - Used Autoencoder, spatial transformer module, stochastic gradient descent.
-                  - Used MNIST data set and got accuracy upto 0.98 NCC score between aligned and original image after transformation."
+                    Aligning the distorted image to that of original image.
+                    Used Autoencoder, spatial transformer module, stochastic gradient descent.
+                    Used MNIST data set and got accuracy upto 0.98 NCC score between aligned and original image after transformation."
 
 
       - title: Offline signature verification using Siamese convolutional Network
         link: "https://github.com/vjayd/Signature-verification-using-Siamese-CNN"
-        tagline: "
-                   - Twin networks followed by distance measure as loss function.
-                   - Got accuracy of 70 % "
+        tagline: "  Multiinput CNN architecture with CEDAR dataset
+                    Twin networks followed by distance measure as loss function.
+                    Got accuracy of 70 % "
 
 
       - title: Prediction using Random Forestetwork
         link: "https://github.com/vjayd/Signature-verification-using-Siamese-CNN"
-        tagline: "
-                   - Data cleaning and wrangling of given unstructured data.
-                   - Applied random forest algorithm for the prediction ."
+        tagline: "   Feature engineering and feature scaling.
+                     Data cleaning and wrangling of given unstructured data.
+                     Applied random forest algorithm for better prediction ."
 
 
 
