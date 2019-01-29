@@ -125,7 +125,7 @@ projects:
 
 
       - title: Prediction using Random Forest.
-        link: "https://github.com/vjayd/hackerearth_criminal"
+        link: "https://github.com/vjayd/Prediction-Model-using-Random-Forest"
         tagline: "   Feature engineering and feature scaling.
                      Data cleaning and wrangling of given unstructured data.
                      Applied random forest algorithm for better prediction ."
