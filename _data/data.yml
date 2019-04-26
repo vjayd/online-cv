@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Vijay Deshpande
-    tagline: Master's student at IIIT Vadodara
+    tagline: M.Tech at IIIT Vadodara
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,11 +55,12 @@ career-profile:
     summary: |
       I will be completing my master's from Indian Institute of Information Technology Vadodara by June 30, 2019. I have 
       2 years of professional experience working as a software engineer. My broad areas of research is machine learning, 
-      deep learning, Bayesian statistics, data science, computer vision and NLP. I am currently working/researching at the
-      intersection of Bayesian inference and deep learning with its application to medical data. You can download my resume [here](vijay_IIIT.pdf)
+      deep learning, Bayesian statistics, data science, computer vision and NLP. 
       
+      I am currently working at the intersection of Bayesian inference and deep learning with its application to 
+      medical data. You can download my resume [here](vijay_IIIT.pdf) 
+      and please feel free to inbox me if you have an interesting opportunity.
       
-      Also, i love reading novels and watching cricket in my free time. 
 
       
 
