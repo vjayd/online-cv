@@ -50,21 +50,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have 2 years of experience working as a software engineer. I'm currently master's student at Indian Institute of Information Technology Vadodara. My broad areas of research is machine learning, deep learning, Bayesian statistics, data science, computer vision and NLP. I am currently working on the intersection of 
-      Bayesian statistics and deep learning with applications to computer vision and NLP.
+      I have 2 years of experience working as a software engineer. I'm currently master's student at Indian Institute of Information Technology Vadodara. My broad areas of research is machine learning, deep learning, Bayesian statistics, data science, computer vision and NLP. 
       Also, i love reading novels and watching cricket in my free time.
 
       
 
 education:
-    - degree: M.Tech in Computer science
+    - degree: M.Tech in computer science
       university: IIIT Vadodara, India
       time: 2017 - 2019
       details: |
           - Teaching Assistant for various courses.
           - Doing research on Bayesian deep learning and its application to computer vision and NLP.
 
-    - degree: B.Engg in Computer science
+    - degree: B.Engg in computer science
       university: Amravati University, Maharashtra
       time: 2010 - 2014
       details: |
@@ -80,7 +79,7 @@ experiences:
       company: Perk.com Inc
       details: |
         
-          - Have 2 years of experience 
+          
           - Was responsible for end to end delivery of android apps.
           - Worked on Android sdk, Android NDK, JNI, JSON, Webview.
           - Design Patterns Used : MVC, Singleton, Adapter .
@@ -99,7 +98,8 @@ projects:
     assignments:
       - title: Data Augmentation using Deep Convolutional Generative Adversarial Network.
         link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
-        tagline: " Did data augmentation using GAN'S. Two network were used Generator and Discriminator with 
+        tagline: " 
+                   Did data augmentation using GAN'S. Two network were used Generator and Discriminator with 
                    Min-max function as loss function. Dataset used was celebrity dataset and with different hyperparameter 
                    different results were obtained."
         
