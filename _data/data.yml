@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Vijay Deshpande
     tagline: M.Tech at IIIT Vadodara
-    avatar: DSC_2631.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: deshpandevijay@hotmail.com
