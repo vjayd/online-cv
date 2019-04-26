@@ -121,7 +121,7 @@ projects:
         tagline: " Currently working on the intersection of Bayesian inference and deep learning for 2D medical image reconstruction/ registration.
                    Developed end-to-end Bayesian CNN network consisting of downsampling and upsampling convolution layers, pooling layers and
                    batch normalization. Lungs CT and cardiac MRI dataset were used in this experiment and got an accuracy of 96% when compared with its actual ground truth.
-                   Tools used are pytorch 1.0, python, sklearn, matplotlib.
+                   Tools used are pytorch 1.0, python, sklearn, matplotlib."
         
     
     
@@ -134,7 +134,7 @@ projects:
       - title: Text translation using RNN and attention mechanism.
         link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
         tagline: " Language translation using autoencoder architecture. Used LSTM , RNN, GRU , Attention mechanism and teacher forcing.
-                   Dataset used was fra - eng translation . "
+                   Dataset used was fra - eng translation. "
 
 
       - title: Image Alignment using Convolutional Autoencoder.
