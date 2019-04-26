@@ -71,7 +71,21 @@ education:
           - Completed B.Engg with 7.98 CPI
         
 
-          
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Pytorch, sklearn
+        level: 98%
+
+      - name: Spyder, Jupyter
+        level: 98%
+
+      - name: Android Studio
+        level: 95%
 
 experiences:
     - role: Software Engineer
@@ -143,21 +157,7 @@ projects:
 
 
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 98%
-
-      - name: Pytorch, sklearn
-        level: 98%
-
-      - name: Spyder, Jupyter
-        level: 98%
-
-      - name: Android Studio
-        level: 95%
 
       
 
