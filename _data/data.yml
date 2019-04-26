@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 201761003@iiitvadodara.ac.in
+    email: deshpandevijay@hotmail.com
     phone: +91 7022151364
     #website: blog.webjeda.com #do not add http://
     linkedin: deshpandevijay
@@ -38,20 +38,23 @@ sidebar:
         level: Native
 
     interests:
-      - item: Reading Novels
+      - item: Deep learning
         link:
 
-      - item: Watching Cricket
+      - item: Data analytics
         link:
 
-      - item: #Cooking
+      - item: Computer vision
+        link:
+        
+      - item: Natural language processing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       I will be completing my master's from Indian Institute of Information Technology Vadodara by June 30, 2019. I have 2 years of professional experience working as a software engineer. My broad areas of research is machine learning, deep learning, Bayesian statistics, data science, computer vision and NLP. 
-      Also, i love reading novels and watching cricket in my free time.
+      Also, i love reading novels and watching cricket in my free time. You can download my resume [here]()
 
       
 
@@ -75,17 +78,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 98%
+      - name: Python, machine learning
+        level: 90%
 
-      - name: Pytorch, sklearn
+      - name: CNN, RNN, STN, LSTM, GRU, GAN's
+        level: 80%
+        
+      - name: Pytorch, sklearn, tensorflow
         level: 98%
 
       - name: Spyder, Jupyter
         level: 98%
 
-      - name: Android Studio
-        level: 95%
+      - name: Image processing, natural language processing
+        level: 80%
 
 experiences:
     - role: Software Engineer
@@ -94,7 +100,7 @@ experiences:
       details: |
         
           
-          - Was responsible for end to end delivery of android apps.
+          - Responsible for end to end delivery of android apps.
           - Worked on Android sdk, Android NDK, JNI, JSON, Webview.
           - Design Patterns Used : MVC, Singleton, Adapter .
           - Good experience with Ad sdk’s and Materail Design.
@@ -112,19 +118,18 @@ projects:
     assignments:
       - title: Deformable medical image reconstruction using Bayesian deep learning.
         link: ""
-        tagline: " 
-                   Currently working on end-to-end architecture for medical image reconstruction using Bayesian inference and convolutional
-                   neural network to get the reconstructed images of CT and MRI of lungs and cardiac data respectively.
-                   Got accuracy of 96% in terms of similarity score. Tools used were pytorch, simpleITK, python, spyder etc ."
- 
+        tagline: " Currently working on the intersection of Bayesian inference and deep learning for 2D medical image reconstruction/ registration.
+                   Developed end-to-end Bayesian CNN network consisting of downsampling and upsampling convolution layers, pooling layers and
+                   batch normalization. Lungs CT and cardiac MRI dataset were used in this experiment and got an accuracy of 96% when compared with its actual ground truth.
+                   Tools used are pytorch 1.0, python, sklearn, matplotlib.
         
     
     
-      - title: Data Augmentation using Deep Convolutional Generative Adversarial Network.
+      - title: Data augmentation using deep convolutional Generative Adversarial Network (GAN's).
         link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
         tagline: " 
-                   Did data augmentation using GAN'S. Two network were used Generator and Discriminator with 
-                   Min-max function as loss function. Dataset used was celebrity dataset."        
+                  Used deep convolutional GAN’s to augment data. Training was done in min-max way with two CNN networks i.e, generator and discriminator where input noise vector to generator is taken
+                  from gaussian distribution. Dataset used Celeb-A dataset and tools used are pytorch, spyder and matplotlib."      
         
       - title: Text translation using RNN and attention mechanism.
         link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
