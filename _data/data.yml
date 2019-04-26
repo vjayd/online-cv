@@ -54,13 +54,13 @@ career-profile:
     title: Career Profile
     summary: |
       I will be completing my master's from Indian Institute of Information Technology Vadodara by June 30, 2019. I have 2 years of professional experience working as a software engineer. My broad areas of research is machine learning, deep learning, Bayesian statistics, data science, computer vision and NLP. 
-      Also, i love reading novels and watching cricket in my free time. You can download my resume [here]()
+      Also, i love reading novels and watching cricket in my free time. You can download my resume [here](vijay_IIIT.pdf)
 
       
 
 education:
     - degree: M.Tech in computer science
-      university: IIIT Vadodara, India
+      university: Indian Institute of Information Technology Vadodara, India
       time: 2017 - 2019
       details: |
           - Teaching Assistant for various courses.
@@ -129,12 +129,13 @@ projects:
         link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
         tagline: " 
                   Used deep convolutional GAN’s to augment data. Training was done in min-max way with two CNN networks i.e, generator and discriminator where input noise vector to generator is taken
-                  from gaussian distribution. Dataset used Celeb-A dataset and tools used are pytorch, spyder and matplotlib."      
+                  from gaussian distribution. Dataset used in this experiment is Celeb-A dataset and tools used are pytorch, spyder and matplotlib."      
         
       - title: Text translation using RNN and attention mechanism.
         link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
-        tagline: " Language translation using autoencoder architecture. Used LSTM , RNN, GRU , Attention mechanism and teacher forcing.
-                   Dataset used was fra - eng translation. "
+        tagline: " Language translation from one language to another using RNN, GRU and autoencoder along with attention Weights.
+                   Used teacher forcing as a means to train the network.
+                   Dataset used in this experiment is eng-fra translation pair data "
 
 
       - title: Image Alignment using Convolutional Autoencoder.
@@ -147,19 +148,17 @@ projects:
 
       - title: Offline signature verification using Siamese convolutional Network
         link: "https://github.com/vjayd/Signature-verification-using-Siamese-CNN"
-        tagline: "  Multiinput CNN architecture with CEDAR dataset
-                    Twin networks followed by distance measure as loss function.
-                    Got accuracy of 70 % "
+        tagline: "  Developed end-to-end siamese CNN which is multi-input CNN architecture containing two identical subnetworks. Our architecture 
+                    can take variable size input image with the help of spatial pyramid pooling layer. CEDAR dataset were used for the experiment and observed an accuracy
+                    of 78%, Pytorch 1.0, skimage and matplotlib libraries were used.
 
 
       - title: Prediction using Random Forest.
         link: "https://github.com/vjayd/Prediction-Model-using-Random-Forest"
-        tagline: "   Feature engineering and feature scaling.
-                     Data cleaning and wrangling of given unstructured data.
-                     Applied random forest algorithm for better prediction .
-                     Got accuracy of 78%"
-
-
+        tagline: "  We performed data preprocessing, data wrangling, visualization, exploratory data analysis on the given dataset.
+                    we also performed Outlier detection using boxplot,cross validation, feature selection using pearson correlation coefficient,
+                    and feature importance.Random forest approach was giving better performance compared to other models with accuracy of 89.90 on test dat
+                    Libraries used sklearn, seaborn, numpy, pandas.
 
 
 
