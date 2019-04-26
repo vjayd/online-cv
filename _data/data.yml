@@ -53,8 +53,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I will be completing my master's from Indian Institute of Information Technology Vadodara by June 30, 2019. I have 2 years of professional experience working as a software engineer. My broad areas of research is machine learning, deep learning, Bayesian statistics, data science, computer vision and NLP. 
-      Also, i love reading novels and watching cricket in my free time. You can download my resume [here](vijay_IIIT.pdf)
+      I will be completing my master's from Indian Institute of Information Technology Vadodara by June 30, 2019. I have 
+      2 years of professional experience working as a software engineer. My broad areas of research is machine learning, 
+      deep learning, Bayesian statistics, data science, computer vision and NLP. I am currently working/researching at the
+      intersection of Bayesian inference and deep learning with its application to medical data. You can download my resume [here](vijay_IIIT.pdf)
+      Also, i love reading novels and watching cricket in my free time. 
 
       
 
@@ -150,7 +153,7 @@ projects:
         link: "https://github.com/vjayd/Signature-verification-using-Siamese-CNN"
         tagline: "  Developed end-to-end siamese CNN which is multi-input CNN architecture containing two identical subnetworks. Our architecture 
                     can take variable size input image with the help of spatial pyramid pooling layer. CEDAR dataset were used for the experiment and observed an accuracy
-                    of 78%, Pytorch 1.0, skimage and matplotlib libraries were used.
+                    of 78%, Pytorch 1.0, skimage and matplotlib libraries were used."
 
 
       - title: Prediction using Random Forest.
@@ -158,7 +161,7 @@ projects:
         tagline: "  We performed data preprocessing, data wrangling, visualization, exploratory data analysis on the given dataset.
                     we also performed Outlier detection using boxplot,cross validation, feature selection using pearson correlation coefficient,
                     and feature importance.Random forest approach was giving better performance compared to other models with accuracy of 89.90 on test dat
-                    Libraries used sklearn, seaborn, numpy, pandas.
+                    Libraries used sklearn, seaborn, numpy, pandas."
 
 
 
