@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have completed my master's from Indian Institute of Information Technology Vadodara and have 2 years of professional experience working as a software engineer. My broad areas of research is machine learning, deep learning, Bayesian statistics, data science, computer vision and NLP. 
+      I will be completing my master's from Indian Institute of Information Technology Vadodara by June 30, 2019. I have 2 years of professional experience working as a software engineer. My broad areas of research is machine learning, deep learning, Bayesian statistics, data science, computer vision and NLP. 
       Also, i love reading novels and watching cricket in my free time.
 
       
@@ -96,13 +96,21 @@ projects:
       
 
     assignments:
+      - title: Deformable medical image reconstruction using Bayesian deep learning.
+        link: ""
+        tagline: " 
+                   Currently working on end-to-end architecture for medical image reconstruction using Bayesian inference and convolutional
+                   neural network to get the reconstructed images of CT and MRI of lungs and cardiac data respectively.
+                   Got accuracy of 96% in terms of similarity score. Tools used were pytorch, simpleITK, python, spyder etc ."
+ 
+        
+    
+    
       - title: Data Augmentation using Deep Convolutional Generative Adversarial Network.
         link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
         tagline: " 
-                   Did data augmentation using GAN'S. \n Two network were used Generator and Discriminator with 
-                   Min-max function as loss function.\n Dataset used was celebrity dataset and with different hyperparameter 
-                   different results were obtained."
-        
+                   Did data augmentation using GAN'S. Two network were used Generator and Discriminator with 
+                   Min-max function as loss function. Dataset used was celebrity dataset."        
         
       - title: Text translation using RNN and attention mechanism.
         link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
@@ -115,7 +123,7 @@ projects:
         tagline: "
                     Aligning the distorted image to that of original image.
                     Used Autoencoder, spatial transformer module, stochastic gradient descent.
-                    Used MNIST data set and got accuracy upto 0.98 NCC score between aligned and original image after transformation."
+                    Used MNIST data set and got accuracy upto 98% between aligned and original image after transformation."
 
 
       - title: Offline signature verification using Siamese convolutional Network
@@ -129,7 +137,8 @@ projects:
         link: "https://github.com/vjayd/Prediction-Model-using-Random-Forest"
         tagline: "   Feature engineering and feature scaling.
                      Data cleaning and wrangling of given unstructured data.
-                     Applied random forest algorithm for better prediction ."
+                     Applied random forest algorithm for better prediction .
+                     Got accuracy of 78%"
 
 
 
