@@ -57,6 +57,8 @@ career-profile:
       2 years of professional experience working as a software engineer. My broad areas of research is machine learning, 
       deep learning, Bayesian statistics, data science, computer vision and NLP. I am currently working/researching at the
       intersection of Bayesian inference and deep learning with its application to medical data. You can download my resume [here](vijay_IIIT.pdf)
+      
+      
       Also, i love reading novels and watching cricket in my free time. 
 
       
@@ -104,7 +106,7 @@ experiences:
         
           
           - Responsible for end to end delivery of android apps.
-          - Worked on Android sdk, Android NDK, JNI, JSON, Webview.
+          - Worked on Android sdk, AndroidPytorch 1.0, skimage and matplotlib libraries were used. NDK, JNI, JSON, Webview.
           - Design Patterns Used : MVC, Singleton, Adapter .
           - Good experience with Ad sdk’s and Materail Design.
           
@@ -121,32 +123,33 @@ projects:
     assignments:
       - title: Deformable medical image reconstruction using Bayesian deep learning.
         link: ""
-        tagline: " Currently working on the intersection of Bayesian inference and deep learning for 2D medical image reconstruction/ registration.
-                   Developed end-to-end Bayesian CNN network consisting of downsampling and upsampling convolution layers, pooling layers and
-                   batch normalization. Lungs CT and cardiac MRI dataset were used in this experiment and got an accuracy of 96% when compared with its actual ground truth.
-                   Tools used are pytorch 1.0, python, sklearn, matplotlib."
+        tagline: " We developed end-to-end Bayesian convolutional neural network (CNN's) consisting of downsampling and upsampling convolution layers, pooling layers and
+                   batch normalization to register the given pair of images. Lungs CT and cardiac MRI dataset were used in this experiment and got an accuracy of 96% when 
+                   compared with its actual ground truth. Tools used are pytorch 1.0, python, sklearn, matplotlib."
         
     
     
       - title: Data augmentation using deep convolutional Generative Adversarial Network (GAN's).
         link: "https://github.com/vjayd/Face-Generation-using-DCGAN"
         tagline: " 
-                  Used deep convolutional GAN’s to augment data. Training was done in min-max way with two CNN networks i.e, generator and discriminator where input noise vector to generator is taken
-                  from gaussian distribution. Dataset used in this experiment is Celeb-A dataset and tools used are pytorch, spyder and matplotlib."      
+                  Used deep convolutional GAN’s to augment data. Training was done in min-max way with two CNN networks i.e, generator and discriminator where input 
+                  noise vector to generator is taken from gaussian distribution. Dataset used in this experiment is Celeb-A 
+                  dataset and tools used are pytorch, spyder and matplotlib."      
         
       - title: Text translation using RNN and attention mechanism.
         link: "https://github.com/vjayd/Text-Translation-using-RNN-and-LSTM-"
         tagline: " Language translation from one language to another using RNN, GRU and autoencoder along with attention Weights.
                    Used teacher forcing as a means to train the network.
-                   Dataset used in this experiment is eng-fra translation pair data "
+                   Dataset used in this experiment is eng-fra translation pair data. Pytorch 1.0, 
+                   skimage and matplotlib libraries were used. "
 
 
       - title: Image Alignment using Convolutional Autoencoder.
         link: "https://github.com/vjayd/Image-Alignment-using-CNN"
-        tagline: "
-                    Aligning the distorted image to that of original image.
-                    Used Autoencoder, spatial transformer module, stochastic gradient descent.
-                    Used MNIST data set and got accuracy upto 98% between aligned and original image after transformation."
+        tagline: "  Given a pair of original image and distored image the task was to align the distorted 
+                    image to that of original image. We developed an autoencoder network with spatial transformer module,
+                    stochastic gradient descent as optimizer. Used MNIST data set and got accuracy upto 98% between 
+                    aligned and original image after transformation. Pytorch 1.0, skimage and matplotlib libraries were used."
 
 
       - title: Offline signature verification using Siamese convolutional Network
