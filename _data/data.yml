@@ -96,12 +96,26 @@ skills:
         level: 80%
 
 experiences:
+
+    - role: Software Engineer
+      time: 2014 -2016
+      company: Perk.com Inc
+      details: |
+        
+          
+          - Responsible for end to end delivery of android apps.
+          - Worked on Android sdk, Android NDK, JNI, JSON, Webview.
+          - Design Patterns Used : MVC, Singleton, Adapter .
+          - Good experience with Ad sdk’s and Materail Design.
+          
+          
+
+
+
     - role: Technical Consultant 
       time: July 2019 - present
       company: Intel Corporation
       details: |
-        
-          
           - Currently working on Human-object interaction, scene understanding and data augmentation.
 	  - My task is to read and implement recent papers.
 	  - I'm Responsible to come up with deep learning methodologies that will give better accuracy .
